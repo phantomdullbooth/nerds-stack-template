@@ -1,4 +1,4 @@
-# nerds_template
+# NERDS stack
 
 ### Dev Setup - Backend
 * Install dependencies using npm i
