@@ -1,4 +1,4 @@
-# nerds_template
+# NERDS stack
 
 ### Dev Setup - Backend
 * Install dependencies using npm i
@@ -13,3 +13,6 @@
 * Change to client directory
 * Install dependencies using npm i.
 * run npm start. Frontend will open at http://localhost:3000/
+
+/* ========= IGNORE THIS ========= */
+* from root: git rm --cached client -f
